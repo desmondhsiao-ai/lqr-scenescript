@@ -1,0 +1,18 @@
+#LQRv2
+SCENE {
+  shape: "path"
+  d: "M50,90 C40,60 30,40 50,30 C70,20 90,40 80,60 C90,70 85,90 70,100 C65,95 55,95 50,90 Z"
+  fill: "#000000"
+}
+
+ACTION {
+  trigger: "onLoad"
+  effect: "fadeIn"
+  duration: "1.5s"
+}
+
+META {
+  author: "Noname Elsewhere"
+  timestamp: "2025-11-06T15:00Z"
+  description: "Minimal cat head silhouette in vector path"
+}
