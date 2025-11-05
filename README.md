@@ -17,3 +17,4 @@ This repo contains a minimal SceneScript file that describes a red triangle with
    ```bash
    python renderer_svg.py > output.svg
    python lqr_encoder.py "https://github.com/yourname/lqr-scenescript" > qr.txt
+3. Scan qr.txt with your phone camera!
