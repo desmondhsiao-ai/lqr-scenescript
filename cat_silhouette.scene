@@ -1,8 +1,8 @@
 #LQRv2
 SCENE {
   shape: "path"
-  d: "M50,90 C40,60 30,40 50,30 C70,20 90,40 80,60 C90,70 85,90 70,100 C65,95 55,95 50,90 Z"
-  fill: "#000000"
+  d: "M100,180 C60,170 40,150 40,100 C40,80 50,60 60,50 C70,40 80,30 100,30 C120,30 130,40 140,50 C150,60 160,80 160,100 C160,150 140,170 100,180 Z"
+  fill: "#222"
 }
 
 ACTION {
@@ -13,6 +13,6 @@ ACTION {
 
 META {
   author: "Noname Elsewhere"
-  timestamp: "2025-11-06T15:00Z"
+  timestamp: "2025-11-06T16:00Z"
   description: "Minimal cat head silhouette in vector path"
 }
