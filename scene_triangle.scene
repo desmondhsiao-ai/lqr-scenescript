@@ -1,0 +1,19 @@
+#LQRv2
+SCENE {
+  shape: "triangle"
+  points: "10,190 100,10 190,190"
+  fill: "#F23D4C"
+}
+
+ACTION {
+  trigger: "onLoad"
+  effect: "translateY"
+  value: "-30px"
+  duration: "2s"
+  easing: "ease-in-out"
+}
+
+META {
+  author: "Noname Elsewhere"
+  timestamp: "2025-11-06T12:00Z"
+}
